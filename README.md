@@ -50,3 +50,4 @@ The application should be available at http://localhost:8000/ through your brows
 ## Todo
 - More Documentation
 - More Tests
+- More API
